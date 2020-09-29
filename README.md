@@ -1,5 +1,7 @@
 # Trust Policy Authoring Tool Deployer
 
+> **NOTE: This deployer utility has been DEPRECATED in favor of the [Trustmark Tools Deployer](https://github.com/Trustmark-Initiative/trustmark-tools-deploy).**
+
 This repository contains the _Trust Policy Authoring Tool Deployer_. It is a basic configuration harness that you can use to set up and deploy an instance of the [_Trust Policy Authoring Tool_](https://github.com/Trustmark-Initiative/tpat) software using [Docker](https://www.docker.com/).
 
 ## How to Use This Tool
